@@ -1,0 +1,3 @@
+class ActivityInitialParams {
+  const ActivityInitialParams();
+}

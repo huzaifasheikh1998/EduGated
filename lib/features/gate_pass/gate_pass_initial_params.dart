@@ -1,0 +1,3 @@
+class GatePassInitialParams {
+  const GatePassInitialParams();
+}

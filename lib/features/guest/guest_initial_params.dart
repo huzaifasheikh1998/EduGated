@@ -1,0 +1,3 @@
+class GuestInitialParams {
+  const GuestInitialParams();
+}

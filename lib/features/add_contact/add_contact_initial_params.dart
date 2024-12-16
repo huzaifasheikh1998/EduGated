@@ -1,0 +1,3 @@
+class AddContactInitialParams {
+  const AddContactInitialParams();
+}

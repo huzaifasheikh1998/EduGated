@@ -1,0 +1,3 @@
+class SelectionInitialParams {
+  const SelectionInitialParams();
+}
